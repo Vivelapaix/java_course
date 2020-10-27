@@ -16,3 +16,12 @@ def reverseList(self, head: ListNode) -> ListNode:
     
     return prev  
 ```
+
+## Middle of the Linked List
+
+https://leetcode.com/problems/middle-of-the-linked-list/
+
+```python
+def middleNode(self, head: ListNode) -> ListNode:
+    pass
+```
